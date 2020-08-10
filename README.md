@@ -11,6 +11,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />][outlook] 
+
 </br>
 
 ### Linguagens
@@ -22,7 +23,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/robertohigor/
-[outlook]: roberto.higor@outlook.com
+[outlook]: mailto:roberto.higor@outlook.com
 
 [java]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=java
 [python]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=python
