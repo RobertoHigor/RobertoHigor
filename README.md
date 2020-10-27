@@ -32,11 +32,11 @@
 
 </br></br>
 ### Cursos
-Orientação a objetos com Java - Coursera.
-TDD - Desenvolvimento de software guiado a testes - Coursera.
-CS50 - Harvard.
-Forsoft 2015 - Infnet.
-Bootcamp Java RESTful.
-Bootcamp Node.js, React e React Native - Rocketseat.
-Spring & Hibernate - Udemy (em andamento).
+* Orientação a objetos com Java - Coursera;
+* TDD - Desenvolvimento de software guiado a testes - Coursera;
+* CS50 - Harvard;
+* Forsoft 2015 - Infnet;
+* Bootcamp Java RESTful;
+* Bootcamp Node.js, React e React Native - Rocketseat;
+* Spring & Hibernate - Udemy (em andamento).
 
