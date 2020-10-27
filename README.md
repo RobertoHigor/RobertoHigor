@@ -30,3 +30,12 @@
 [c++]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=c%2B%2B
 [javascript]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=javascript
 
+### Cursos
+Orientação a objetos com Java - Coursera.
+TDD - Desenvolvimento de software guiado a testes - Coursera.
+CS50 - Harvard.
+Forsoft 2015 - Infnet.
+Bootcamp Java RESTful.
+Bootcamp Node.js, React e React Native - Rocketseat.
+Spring & Hibernate - Udemy (em andamento).
+
