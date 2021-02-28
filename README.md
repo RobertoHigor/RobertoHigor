@@ -16,10 +16,12 @@
 
 ### Linguagens
 
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"/>][java]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg"/>][python]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg"/>][c++]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"/>][javascript]
+[<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>][java]
+[<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>][python]
+[<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>][c++]
+[<img align="left" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>][javascript]
+[<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>][c#]
+
 
 
 [linkedin]: https://www.linkedin.com/in/robertohigor/
@@ -28,6 +30,7 @@
 [java]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=java
 [python]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=python
 [c++]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=c%2B%2B
+[c#]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=c%23
 [javascript]: https://github.com/RobertoHigor?tab=repositories&q=&type=&language=javascript
 
 </br></br>
