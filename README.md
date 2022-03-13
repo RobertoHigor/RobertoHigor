@@ -2,7 +2,7 @@
 [Site Pessoal](https://robertohigor.github.io)
 
 ## Sou um desenvolvedor back-end apaixonado por aprender.
-- 🌱 Atualmente estou estudando Python e Spring
+- 🌱 Atualmente estou estudando C# e Vue
 - 🧩 Sempre busco aprender algo diferente.
 - 🌎 Compreendo inglês avançado
 - ⚡ Fato interessante: Adoro ler, aprender algo novo e jogar video games.
